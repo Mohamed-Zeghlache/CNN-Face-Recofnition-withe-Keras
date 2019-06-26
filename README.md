@@ -6,8 +6,8 @@ we presented the implementation of the face recognition approach based on convol
     
 The proposed approach for facial recognition works for low resolutions (the images are 96 x 96 in size), interesting for future extensions of the technique. The approach uses a particular architecture of the convolutional neural network. This projects a face in a space of smaller dimensions, where the actual recognition is performed. Tests on such a limited database are encouraging.
 
-required packages
-    Keras
-    OpenCv
-    MatPlotlib
-    face_recognition
+    required packages
+    Keras\n
+    OpenCv\n
+    MatPlotlib\n
+    face_recognition\n
