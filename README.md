@@ -1,4 +1,4 @@
-# CNN-Face-Recofnition-with-Keras
+# CNN-Face-Recognition-with-Keras
 building a CNN to recognize faces using Keras API and OpenCv
 
 
